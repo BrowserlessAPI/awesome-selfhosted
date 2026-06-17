@@ -1862,7 +1862,7 @@ Software for easy installation, management and configuration of self-hosted serv
 - [WikiSuite](https://wikisuite.org) - The most comprehensive and integrated Free / Libre / Open Source enterprise software suite. ([Source Code](https://wikisuite.org/Source-Code)) `GPL-3.0/LGPL-2.1/Apache-2.0/MPL-2.0/MPL-1.1/MIT/AGPL-3.0` `Shell/Perl/deb`
 - [xsrv](https://xsrv.readthedocs.io/) - Install and manage self-hosted services/applications, on your own server(s). ([Source Code](https://github.com/nodiscc/xsrv)) `GPL-3.0` `Ansible/Shell`
 - [YunoHost](https://yunohost.org/) - Server operating system aiming to make self-hosting accessible to everyone. ([Demo](https://yunohost.org/#/try), [Source Code](https://github.com/YunoHost)) `AGPL-3.0` `Python/Shell`
-- - [VortexPanel](https://github.com/BrowserlessAPI/VortexPanel) - Open-source server control panel supporting Nginx/Apache/OpenLiteSpeed/Caddy, multi-version PHP, MariaDB/MySQL, WP Toolkit, firewall (UFW + firewalld), ModSecurity WAF, Fail2Ban, Load Balancer, Docker, DNS, backups, and more. ([Source Code](https://github.com/BrowserlessAPI/VortexPanel)) `MIT` `Python`
+- [VortexPanel](https://github.com/BrowserlessAPI/VortexPanel) - Open-source server control panel supporting Nginx/Apache/OpenLiteSpeed/Caddy, multi-version PHP, MariaDB/MySQL, WP Toolkit, firewall (UFW + firewalld), ModSecurity WAF, Fail2Ban, Load Balancer, Docker, DNS, backups, and more. ([Source Code](https://github.com/BrowserlessAPI/VortexPanel)) `MIT` `Python`
 
 
 ### Software Development
